@@ -1,9 +1,0 @@
-com/example/todo_v1/BuildConfig.java
- com.example.todo_v1.BuildConfig
-com/example/todo_v1/ThirdActivity.java
- com.example.todo_v1.ThirdActivity
-com/example/todo_v1/SecondActivity.java
- com.example.todo_v1.SecondActivity
-com/example/todo_v1/MainActivity.java
- com.example.todo_v1.MainActivity
- com.example.todo_v1.MainActivity$1
